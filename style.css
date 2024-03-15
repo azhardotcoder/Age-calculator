@@ -125,5 +125,9 @@ body {
 
         font-size: 40px;
     }
+    #result span {
+    color: #ffff00;
+    textalign: center;
+    }
 
 }
